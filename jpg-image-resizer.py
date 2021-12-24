@@ -18,7 +18,7 @@
 #
 # Usage:
 #
-# If you machine has the python3 interpreter installed, you can run this
+# If your machine has the python3 interpreter installed, you can run this
 # from your terminal inside any directory.  You must make an
 # input directory here and place all your jpg files inside the
 # input directory.
