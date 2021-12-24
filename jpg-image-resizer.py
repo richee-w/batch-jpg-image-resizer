@@ -45,7 +45,6 @@ import glob
 import shutil
 from shutil import copytree, ignore_patterns
 #
-#
 # Change values here to the desired image dimensions in pixels.  1st value = width & 2nd value = height.
 maxsize = (1024, 768)
 try:
