@@ -1,4 +1,4 @@
-# jpg image resizer
+# Batch jpg image resizer
 
 **Author: Richee Wilson**
 
