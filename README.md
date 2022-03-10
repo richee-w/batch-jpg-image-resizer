@@ -1,6 +1,6 @@
 # Batch jpg image resizer
 
-**Author: Richee Wilson**
+** Author: Richee Wilson **
 
 Python version 3 required
 
