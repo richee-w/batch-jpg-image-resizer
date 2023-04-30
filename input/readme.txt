@@ -1,1 +1,0 @@
-Your "input" *.jpg image file must go in this directory. "./input/"  

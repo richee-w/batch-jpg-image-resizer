@@ -1,1 +1,0 @@
-Your optimized *.jpg image files will appear in this directory after processing. "./output/"
