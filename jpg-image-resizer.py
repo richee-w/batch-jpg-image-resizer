@@ -29,13 +29,13 @@
 # and output the results to the output directory at 80% jpg quality
 # (quality can also be modified, again see comments in the code below).
 #
-# Note that all images must be jpg files and end in the .jpg extention.
+# Note that all images must be jpg files and end in the .jpg extension.
 #
 # This script must be run inside a directory that contains an input directory.
-# All images must be contained inside the input directory.  Sub diretories are allowed.
+# All images must be contained inside the input directory.  Sub directories are allowed.
 #
 # The resized images will be saved under the output directory inside the script's current directory
-# and will retain the original diretory structure as presented inside the input directory.
+# and will retain the original directory structure as presented inside the input directory.
 # There is no need to create the output directory, this script will do that for you.
 #
 #
