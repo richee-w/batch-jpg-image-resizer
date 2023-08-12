@@ -1,10 +1,10 @@
 # Batch jpg image resizer
 
-** Author: Richee Wilson **
+Author: Richee Wilson
 
 Python version 3 required
 
-## Purpose:
+## Purpose
 
 I wrote this script to optimise images for a camera club website.
 In the website we display the winning images from monthly competitions and
@@ -14,9 +14,9 @@ the higher resolution images made. This script reduces the pixel
 dimensions to 1024 x 768 and lowers the quality to 80%. I run the website
 and use this script regularly for this purpose. This has significantly
 improved the performance of the website. It's a wordpress site and the
-url is https://www.watfordcameraclub.org.uk/
+url is [https://www.watfordcameraclub.org.uk](https://www.watfordcameraclub.org.uk/)
 
-## Usage:
+## Usage
 
 If your machine has the python3 interpreter installed, you can run this
 from your terminal inside any directory. You must make an
